@@ -1,2 +1,15 @@
 /arithmetic/knn/data/FBlocation/
 /arithmetic/cluster/data/instacart/
+./.idea/
+
+
+
+
+/bfg.jar
+/.idea/encodings.xml
+/.idea/machine-learning-learn.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
