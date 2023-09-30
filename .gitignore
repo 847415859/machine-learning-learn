@@ -13,3 +13,5 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/sklearn/
+/arithmetic/logistic-regression/data/
